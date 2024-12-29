@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.content {
+    background-color: #1C0030;
+    color: white;
+}
+.header {
+    padding-bottom: 50px;
+}
+.marketing h1 {
+    font-size: 100px;
+    color: rgb(255, 60, 60);
+    margin-top: 50px;
+    margin-bottom: 150px;
+}
+.info,.chat{
+    color: #56bce4;
+    margin-bottom: 40px;
+}
+.stats {
+    padding-bottom: 100px;
+}
+.stat h3{
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 60px;
+}
+.stat1,.stat2{ 
+    width: 600px;
+    height: 500px;
+    background-color: #c4c2c2;
+}
+.stat3 {
+    width: 1000px;
+    height: 600px;
+    background-color: #c4c2c2;
+}
+
+.chat h1{
+    padding: 50px;
+}
